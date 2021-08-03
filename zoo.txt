@@ -1,1 +1,8 @@
-
+graphical perception
+protovis
+stem-and-leaf
+splom
+parallel coordinates
+dorling cartogram
+force-directed layout
+arc diagrams
