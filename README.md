@@ -6,4 +6,4 @@
 * [Zoo](https://agustinroca.github.io/infovis/zoo.txt)
 
 ## Makover Monday
-* W31: Bike Collisions (2005-2019)
+* [W31: Bike Collisions (2005-2019)](https://agustinroca.github.io/infovis/mom2021w31)
