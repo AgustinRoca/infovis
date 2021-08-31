@@ -39,4 +39,4 @@ Instagram ofrece distintos datos a cuentas de creadores de contenido desde la ap
 Los datos fueron pasados a mano a una base de datos PostgreSQL. En el directorio data se encuentran todos los archivos .sql con los datos utilizados para la visualización
 
 ## Boceto de visualización
-[Tableau Public](https://public.tableau.com/views/InstagramInsights/Historia1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
+[Tableau Public](https://public.tableau.com/shared/BFRZCKJS4?:display_count=n&:origin=viz_share_link)
