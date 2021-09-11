@@ -1,5 +1,8 @@
 # TP Datos Personales
 ## Idea
+
+<img src="images/codingroute.jpg" width="200">
+
 Insights de Instagram para cuenta de programación 
 * @codingroute
 * 550+ seguidores
@@ -7,6 +10,8 @@ Insights de Instagram para cuenta de programación
 
 ## Datos
 Instagram ofrece distintos datos a cuentas de creadores de contenido desde la aplicación.
+
+<img src="images/post_stats.png" width="200">
 
 ### Por cada publicación
 * Likes
@@ -22,7 +27,12 @@ Instagram ofrece distintos datos a cuentas de creadores de contenido desde la ap
 * Hashtags que tiene la publicación
 * El pie de la foto
 
+<img src="images/interactions.png" width="500">
+
 ### De los seguidores
+
+<img src="images/audience_stats.jpg" width="200">
+
 * Porcentaje de los top 5 países donde provienen 
 * Porcentaje de los top 5 ciudades donde provienen 
 * Porcentaje de las edades de todos los seguidores
@@ -37,6 +47,8 @@ Instagram ofrece distintos datos a cuentas de creadores de contenido desde la ap
 
 ## Almacenamiento de datos
 Los datos fueron pasados a mano a una base de datos PostgreSQL. En el directorio data se encuentran todos los archivos .sql con los datos utilizados para la visualización
+
+<img src="images/database_structure.png" width="700">
 
 ## Boceto de visualización
 [Tableau Public](https://public.tableau.com/shared/BFRZCKJS4?:display_count=n&:origin=viz_share_link)
