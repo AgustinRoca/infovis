@@ -1,3 +1,4 @@
+id,date,description,likes_qty,comments_qty,shared_qty,saved_qty,profile_visits,reach_qty,not_following_percentage,impression_profile,impression_home,impression_hashtags,impression_other,new_followers
 1,2020-12-25,"These were my first mistakes as a programmer. What were yours? 🤔
 -
 My first project was a building specific queries for a CSV file in C.
