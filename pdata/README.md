@@ -1,9 +1,8 @@
-# TP Datos Personales
+# TP Datos Personales: Insights de Instagram para cuenta de programación 
 ## Idea
 
 <img src="images/codingroute.jpg" width="200">
 
-Insights de Instagram para cuenta de programación 
 * @codingroute
 * 550+ seguidores
 * 61 publicaciones a lo largo de 3 meses (enero, febrero y marzo 2021)
