@@ -51,3 +51,6 @@ Los datos fueron pasados a mano a una base de datos PostgreSQL. En el directorio
 
 ## Boceto de visualización
 [Tableau Public](https://public.tableau.com/shared/BFRZCKJS4?:display_count=n&:origin=viz_share_link)
+
+## Trabajo final
+[Insights de Instagram](https://agustinroca.github.io/infovis/pdata/pdata)
