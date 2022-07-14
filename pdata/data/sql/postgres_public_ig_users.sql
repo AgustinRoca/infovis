@@ -313,7 +313,6 @@ INSERT INTO public.ig_users (name, friend, is_follower, following) VALUES ('anku
 INSERT INTO public.ig_users (name, friend, is_follower, following) VALUES ('hacker_world_____', false, true, false);
 INSERT INTO public.ig_users (name, friend, is_follower, following) VALUES ('manojchopraaa', false, true, false);
 INSERT INTO public.ig_users (name, friend, is_follower, following) VALUES ('utkarshkumarroy868', false, true, false);
-INSERT INTO public.ig_users (name, friend, is_follower, following) VALUES ('0xjeyesh', false, true, false);
 INSERT INTO public.ig_users (name, friend, is_follower, following) VALUES ('wiggletunes_sa', false, true, false);
 INSERT INTO public.ig_users (name, friend, is_follower, following) VALUES ('thesclickprogrammer', false, true, false);
 INSERT INTO public.ig_users (name, friend, is_follower, following) VALUES ('karthil30072001', false, true, false);
